@@ -1,6 +1,6 @@
 import requests
 from PIL import Image
-API_KEY = "RGAPI-48481c5e-a8c2-4a91-a7bb-a9348dda9b60"
+API_KEY = "RGAPI-7e1ccdeb-ca17-4f2e-9104-2011be04e8b9"
 ASIA_DOMAIN = "https://asia.api.riotgames.com"
 QUERY = "?api_key="+API_KEY
 def getPuuidByGameNameTagLine(gameName, tagLine):
