@@ -85,4 +85,8 @@ def getMatchData(gameName, tagLine):
             print(f"이미지 로딩 실패")
 """
 
+"""
+아무거나
+"""
+
 
